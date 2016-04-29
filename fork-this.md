@@ -99,4 +99,12 @@ On GitHub I roam vomitting code from my dome
 whether is pretty or staid.
 Where often I'm lost but at no extra cost
 and the Internet reguides my wayward ways.
+
+**------------ CHORUS ------------**
+
+```
+I don't know how to fork, but I like me some pork
+whether it's pulled, barbequed or just fried.
+I'm trying to learn; my brain's starting to burn,
+but with Github I can show that I tried.
 ```
